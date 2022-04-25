@@ -1,108 +1,122 @@
 Template-Type: ReDIF-Article 1.0
-Author-Name:  Andrew Beacon
-Author-Name:  Charlie Doe
-Author-Email:  doe@someuni.edu
-Author-Workplace-Name: Some Big University
-Author-Name:  Engelbert Falafel
-Author-Workplace-Name: Some Other University
-Title:  A Guide to Forecasting Agricultural Output by Following Weather
-Patterns in Neighboring Areas
-Abstract:  In this article, we survey the literature on agricultural
-output forecasting and suggest some avenues the merit particular
-attention... 
-Classification-JEL: R00, Z0
-Keywords: Forecasting, agricultural economics
-Journal: Annals of Computational Economics
-Pages: 1-58
-Volume: 3
+Author-Name:  Daria Pignalosa
+Author-Email: daria.pignalosa@uniroma3.it
+Author-Workplace-Name: Roma Tre University
+Title:  The Euler Equation Approach: Critical Implications of Recent Developments in the Theory of Intertemporal Choice 
+Abstract:  The paper deals with the development of the mainstream theory of intertemporal choice based on the idea that 
+individuals choose consumption and saving in order to maximize lifetime expected utility subject to an intertemporal budget 
+constraint. This analytical framework rests on the theories developed in the 1950s by Modigliani and Friedman and revisited 
+in the 1970s with the introduction of the rational expectations assumption. Starting with Hall (1978), the literature focused 
+on testing the model relying on the first-order conditions of the optimization problem faced by the consumer — the Euler equation — 
+and a number of empirical puzzles arose. Therefore, the subsequent decades were dedicated to progressively modifying the original model 
+so as to render it able to explain the data. The paper argues that the introduction of highly specific assumptions, needed to reconcile 
+theory and empirical evidence, has affected the generality of the implications that can be drawn from the model. Furthermore, the ever more 
+substantial departure from the original formulation seems to have resulted in a gradual abandonment of the very premises on which the neoclassical 
+approach to consumption analysis was built.
+Classification-JEL: D01; D14; D15; D91; E21
+Keywords: consumption function; Euler equation; intertemporal preferences; life-cycle model; household saving
+Journal: Bulletin of Political Economy
+Pages: 1-43
+Volume: 15
 Issue: 1
-Year: 1999
-Month: February
-DOI: 10.13934/1999.393
-File-URL: http://www.geekeconomics.com/articles/thefile.pdf
+Year: 2021
+Month: June
+DOI: 
+File-URL: https://serialsjournals.com/abstract/78753_1-pignalosabope2021.pdf
 File-Format: Application/pdf
-File-URL: http://www.geekeconomics.com/articles/thefile.html
+File-URL: 
 File-Format: text/html
-Handle: RePEc:aaa:journl:v:3:y:1999:i:1:p:1-58
+Handle: RePEc:awu:journl:v:15:y:2021:i:1:p:1-43
 
 Template-Type: ReDIF-Article 1.0
-Author-Name:  Andrew Beacon
-Author-Name:  Charlie Doe
-Author-Email:  doe@someuni.edu
-Author-Workplace-Name: Some Big University
-Author-Name:  Engelbert Falafel
-Author-Workplace-Name: Some Other University
-Title:  A Guide to Forecasting Agricultural Output by Following Weather
-Patterns in Neighboring Areas
-Abstract:  In this article, we survey the literature on agricultural
-output forecasting and suggest some avenues the merit particular
-attention... 
-Classification-JEL: R00, Z0
-Keywords: Forecasting, agricultural economics
-Journal: Annals of Computational Economics
-Pages: 1-58
-Volume: 3
+Author-Name:  Nikolaos Th. Chatzarakis
+Author-Email: chatzarn@econ.auth.gr
+Author-Workplace-Name: Aristotle University of Thessaloniki
+Title:  Revisiting the role and consequences of Econophysics from a Marxian perspective
+Abstract:  The idea that economic phenomena are governed by stochasticity and uncertainty led to the extensive 
+use of concepts and methods from the physical sciences that deal with non-deterministic patterns, giving rise 
+to the multidisciplinary field of Econophysics. The last decade, several voices rose against it arguing that no 
+new knowledge has been obtained and that the Econophysicists have merely ‘discovered’ what was already known in Economics. 
+There also have been economists arguing that the mixture of physical models and economic ideas can still blossom and provide 
+new insights into the study of Economics. In this paper, we attempt to reveal a different aspect of Econophysics, one that builds 
+on its corroborative character and its role in criticizing neoclassical approach. In our view Econophysics can be used as a new enlarged 
+version of Econometrics, as a set of methodologies to subject the economic models to logical and empirical tests. But, to do so, we argue, 
+it is also necessary to ‘release’ this strict methodological research from any theoretical or ideological doctrine, including those neoclassical 
+axioms so well incorporated in Economics. In view of this, we show that econophysical models by and large give further insights to discard the 
+Marginalist paradigm point towards a different perception, closer to the old Classical and Marxian theories of political economy.
+Classification-JEL: B12; B13; B14; B16; B41
+Keywords: Econophysics, Political Economy
+Journal: Bulletin of Political Economy
+Pages: 45-68
+Volume: 15
 Issue: 1
-Year: 1999
-Month: February
-DOI: 10.13934/1999.393
-File-URL: http://www.geekeconomics.com/articles/thefile.pdf
+Year: 2021
+Month: June
+DOI: 
+File-URL: https://serialsjournals.com/abstract/18289_2-chawatzibope2021.pdf
 File-Format: Application/pdf
-File-URL: http://www.geekeconomics.com/articles/thefile.html
+File-URL: 
 File-Format: text/html
-Handle: RePEc:aaa:journl:v:3:y:1999:i:1:p:1-58
+Handle: RePEc:awu:journl:v:15:y:2021:i:1:p:45-68
 
 Template-Type: ReDIF-Article 1.0
-Author-Name:  Andrew Beacon
-Author-Name:  Charlie Doe
-Author-Email:  doe@someuni.edu
-Author-Workplace-Name: Some Big University
-Author-Name:  Engelbert Falafel
-Author-Workplace-Name: Some Other University
-Title:  A Guide to Forecasting Agricultural Output by Following Weather
-Patterns in Neighboring Areas
-Abstract:  In this article, we survey the literature on agricultural
-output forecasting and suggest some avenues the merit particular
-attention... 
-Classification-JEL: R00, Z0
-Keywords: Forecasting, agricultural economics
-Journal: Annals of Computational Economics
-Pages: 1-58
-Volume: 3
+Author-Name:  Alex Gymnopoulos
+Author-Email: gymnalex@econ.auth.gr
+Author-Workplace-Name: Aristotle University of Thessaloniki
+Author-Name:  Thanos Poulakis
+Author-Workplace-Name: Aristotle University of Thessaloniki
+Author-Name:  Haris Poulakis
+Author-Workplace-Name: Aristotle University of Thessaloniki
+Author-Name:  Nikolaos Chatzarakis
+Author-Workplace-Name: Aristotle University of Thessaloniki
+Title:  Investigating the Greek Unemployment from a Classical Perspective
+Abstract:  This paper addresses the issue of unemployment in Greek economy from a Marxist perspective. 
+Specifically, we focus on analysing the structure of the Greek labour market with respect to the results
+of the memoranda and their relation to the current phase of capital accumulation. Rejecting the orthodox 
+approaches to measuring and analysing unemployment, we first turn our focus to three indicators that are proposed 
+by the BLS, calculating them in the case of the Greek labour market. Then, the three categories of stagnant, conjectural and 
+latent reserve army are presented and respective unemployment rates are calculated for the Greek economy. Our conclusion is that 
+the Marxian categories, not only capture the real dimension and size of the labour market, but they also contain information about 
+changes in the labour force, that are not easily considered through the official indices.
+Classification-JEL: E24; J21; J64; J82; P16
+Keywords: Stagnant Unemployment, Conjectural Unemployment, Latent Unemployment, Reserve Army of Labour
+Journal: Bulletin of Political Economy
+Pages: 69-91
+Volume: 15
 Issue: 1
-Year: 1999
-Month: February
-DOI: 10.13934/1999.393
-File-URL: http://www.geekeconomics.com/articles/thefile.pdf
+Year: 2021
+Month: June
+DOI: 
+File-URL: https://serialsjournals.com/abstract/42929_3-gymnopoulosbope2021.pdf
 File-Format: Application/pdf
-File-URL: http://www.geekeconomics.com/articles/thefile.html
+File-URL: 
 File-Format: text/html
-Handle: RePEc:aaa:journl:v:3:y:1999:i:1:p:1-58
+Handle: RePEc:awu:journl:v:15:y:2021:i:1:p:69-91
 
 Template-Type: ReDIF-Article 1.0
-Author-Name:  Andrew Beacon
-Author-Name:  Charlie Doe
-Author-Email:  doe@someuni.edu
-Author-Workplace-Name: Some Big University
-Author-Name:  Engelbert Falafel
-Author-Workplace-Name: Some Other University
-Title:  A Guide to Forecasting Agricultural Output by Following Weather
-Patterns in Neighboring Areas
-Abstract:  In this article, we survey the literature on agricultural
-output forecasting and suggest some avenues the merit particular
-attention... 
-Classification-JEL: R00, Z0
-Keywords: Forecasting, agricultural economics
-Journal: Annals of Computational Economics
-Pages: 1-58
-Volume: 3
+Author-Name:  Enrico Sergio Levrero
+Author-Email:  enricosergio.levrero@uniroma3.it
+Author-Workplace-Name: Roma Tre University
+Title:  Credit, money and economic growth: two volumes in honour of Lavoie and Seccareccia
+Abstract:  This review article provides a brief outline of the content of
+two recent volumes edited by Rochon and Bougrine in honour of Lavoie
+and Seccareccia. Observations are then advanced on two points raised in
+the two volumes, namely the effect of the monetary policies on income
+distribution and the implications of the zero lower bound on the monetary
+policy. Finally, some contributions focusing on secular stagnation are
+commented on.
+Classification-JEL: E12; E4; E5
+Keywords: Credit, money, monetary policy and income distribution, effective demand and economic growth, secular stagnation.
+Journal: Bulletin of Political Economy
+Pages: 93-108
+Volume: 15
 Issue: 1
-Year: 1999
-Month: February
-DOI: 10.13934/1999.393
-File-URL: http://www.geekeconomics.com/articles/thefile.pdf
+Year: 2021
+Month: June
+DOI: 
+File-URL: https://serialsjournals.com/abstract/90407_4-reviewseccareccialavoiefinal.pdf
 File-Format: Application/pdf
-File-URL: http://www.geekeconomics.com/articles/thefile.html
+File-URL: 
 File-Format: text/html
-Handle: RePEc:aaa:journl:v:3:y:1999:i:1:p:1-58
+Handle: RePEc:awu:journl:v:15:y:2021:i:1:p:93-108
 
