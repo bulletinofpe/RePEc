@@ -1,9 +1,8 @@
 Template-Type: ReDIF-Series 1.0
-Name: Working Papers
+Name: Bulletin of Political Economy
 Provider-Name: Bulletin of Political Economy
 Provider-Homepage: https://www.bulletinofpe.com/
-Provider-Institution: RePEc:edi:fero3it
 Maintainer-Name: Maria Cristina Barbieri Goes
 Maintainer-Email: bulletinofpe@gmail.com
-Type: ReDIF-Paper
-Handle: RePEc:awu:wpaper
+Type: ReDIF-Article
+Handle: RePEc:awu:journl
