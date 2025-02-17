@@ -3,15 +3,15 @@ Author-Name: Lefteris Tsoulfidis
 Author-Email: Lnt@uom.edu.gr
 Author-Workplace-Name: Department of Economics, University of Macedonia, Thessaloniki, Greece
 Title: In Memory of Robert Solow: a 2009 interview
-Abstract: This note and interview commemorates Robert M. Solow (1924–2023), a distinguished economist renowned for championing neoclassical economics while fostering dialogue with diverse viewpoints. In a 2009 interview, Solow analyzed the Great Recession, attributing its origins to financial instability and regulatory shortcomings. He advocated for robust government intervention and highlighted the need to address critical gaps in growth theory, particularly the underexplored role of the financial system. Solow also stressed the importance of public investment in education and research as essential drivers of innovation and long-term economic progress.
-Classification-JEL: 
-Keywords: Robert Solow; economic thought; Great Recession; financial instability; growth theory
+Abstract: This note and interview commemorates Robert M. Solow (1924–2023), a distinguished economist renowned for championing neoclassical economics while fostering dialogue with diverse viewpoints. In a 2009 interview, Solow analyzed the Great Recession, attributing its origins to financial instability and regulatory shortcomings. He advocated for robust government intervention and highlighted the need to address critical gaps in growth theory, particularly the underexplored role of the financial system. Solow also stressed the importance of public investment in education and research as essential drivers of innovation and long-term economic progres.
+Classification-JEL: B20, B40, O30, O40
+Keywords: Economic Growth, Innovations, Economic Policy, Institutions
 Journal: Bulletin of Political Economy
 Pages: 145-148
 Volume: 17
 Issue: 2
 Year: 2023
-Month: July-December
+Month: December
 DOI: 
 File-URL: 
 File-Format: Application/pdf 
@@ -19,21 +19,20 @@ File-URL:
 File-Format: text/html 
 Handle: RePEc:awu:journl:v:17:y:2023:i:2:p:145-148
 
-
 Template-Type: ReDIF-Article 1.0 
 Author-Name: Michele Ciccone
 Author-Email: ciccone_m@camera.it
 Author-Workplace-Name: Analyst at the Italian Chamber of Deputies, Rome, Italy
 Title: On the tendency of the market rate of interest to the natural rate in Ricardo’s analysis: some critical considerations
-Abstract: This paper critically examines one of the key assumptions in Ricardo’s theory of money and interest: that the natural rate of interest is determined by the profit rate. The paper argues that Ricardo’s conceptualization of the tendency of the market rate of interest to the natural rate contains logical inconsistencies. It explores how exogenous changes in money supply and demand create short-term shifts in interest rates and the money-prices ratio, while permanent price level adjustments restore equilibrium. However, it highlights critical challenges in Ricardo’s proposed convergence mechanism, particularly regarding the inducement for public borrowing and the monetary system’s institutional features.
-Classification-JEL: 
-Keywords: Ricardo; interest rate; profit rate; money supply; monetary system
+Abstract: This paper aims to be a critical discussion about one of the main accepted results of Ricardo’s theory of money and interest, i.e., that the ‘natural’ rate of interest is determined by the profit rate. It will be argued that some logical inconsistencies seem to affect Ricardo’s representation of the tendency of the market rate of interest to the natural rate, with the latter ultimately determined by the rate of profits. According to Ricardo, exogenous changes in the supply of, or demand for, money generate short-run changes of the money-prices ratio and the market interest rate, and permanent changes in the price level play the role of bringing them back to their natural values (the natural rate of interest being taken as a fraction of the natural profit rate). We will try to show that the convergence process envisaged by Ricardo seems to be not free from some critical considerations about its internal coherence if one takes into due account what he conceives to be the specific inducement for the public to borrow a larger quantity of money at a lower interest rate—namely, an above normal difference between profit rate and interest rate - together with the main institutional features of a monetary system
+Classification-JEL: B00, B12, E40
+Keywords: David Ricardo, market and natural rates of interest, classical theory of money, quantity theory of money
 Journal: Bulletin of Political Economy
 Pages: 149-176
 Volume: 17
 Issue: 2
 Year: 2023
-Month: July-December
+Month: December
 DOI: 
 File-URL: 
 File-Format: Application/pdf 
@@ -41,21 +40,20 @@ File-URL:
 File-Format: text/html 
 Handle: RePEc:awu:journl:v:17:y:2023:i:2:p:149-176
 
-
 Template-Type: ReDIF-Article 1.0 
 Author-Name: Romar Correa
 Author-Email: romarcorrea10@gmail.com
 Author-Workplace-Name: Former Reserve Bank of India Professor of Monetary Economics, University of Mumbai
 Title: Kalecki-Minsky-monetary circuit complexity
-Abstract: This paper explores the connection between commodity production and money, drawing on the investment theories of Michal Kalecki and Hyman Minsky. The monetary circuit is analyzed within the framework of Wynne Godley and Francis Cripps (1983). A mixed differential-difference equation approach is used, following Giancarlo Gandolfo (1971). Complexity is defined as the potential emergence of unexpected outcomes in the interaction of two key parameters—one related to money and the other to the real economy.
-Classification-JEL: 
-Keywords: Kalecki; Minsky; monetary circuit; complexity; financial dynamics
+Abstract: We work through a connection between commodity production and money. The former is drawn from the theories of investment of Michal Kalecki and Hyman Minsky. The latter is motivated by the theory of the monetary circuit translated in the framework of Wynne Godley and Francis Cripps (1983). We set up and solve a mixed differential-difference equation in the manner of Giancarlo Gandolfo (1971). Complexity is defined as the potential emergence of surprise in the combination of two parameters in the solutions of the equation, one for money and one for the real economy
+Classification-JEL: E11, E12, C62
+Keywords: bank money, investment lags, bifurcations
 Journal: Bulletin of Political Economy
 Pages: 177-194
 Volume: 17
 Issue: 2
 Year: 2023
-Month: July-December
+Month: December
 DOI: 
 File-URL: 
 File-Format: Application/pdf 
@@ -63,6 +61,26 @@ File-URL:
 File-Format: text/html 
 Handle: RePEc:awu:journl:v:17:y:2023:i:2:p:177-194
 
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Ferran Sancho
+Author-Email: ferran.sancho@uab.ca
+Author-Workplace-Name: Department of Economics, Universitat Autònoma de Barcelona, 08193-Bellaterra, Spain
+Title: The rate of surplus value and the structure of the tax system
+Abstract: The objective of this work is twofold. First, it aims to establish procedures for approximating the rate of surplus value using disaggregated data published by statistical agencies. Second, and perhaps more importantly, it highlights that the dynamics of the rate of surplus value should be regarded as a preferred indicator for assessing the effects of public policies, particularly taxation. This is because not all taxes impact the rate equally. To illustrate the potential of this analytical approach, we employ recent data from Spain, organized in a Social Accounting Matrix SAM).
+Classification-JEL: B51, C54, H22
+Keywords: The rate of surplus value, Social Accounting Matrix, Taxation and consumption, Policy indicators
+Journal: Bulletin of Political Economy
+Pages: 195-212
+Volume: 17
+Issue: 2
+Year: 2023
+Month: December
+DOI: 
+File-URL: 
+File-Format: Application/pdf 
+File-URL: 
+File-Format: text/html 
+Handle: RePEc:awu:journl:v:17:y:2023:i:2:p:195-212
 
 Template-Type: ReDIF-Article 1.0 
 Author-Name: Nikos Stravelakis
@@ -71,13 +89,13 @@ Author-Workplace-Name: Department of Economics, University of Athens
 Title: Book Reviews
 Abstract: Review of "Techno-Feudalism - What Killed Capitalism" by Yanis Varoufakis.
 Classification-JEL: 
-Keywords: Book reviews; political economy; capitalism; techno-feudalism
+Keywords:
 Journal: Bulletin of Political Economy
 Pages: 213-216
 Volume: 17
 Issue: 2
 Year: 2023
-Month: July-December
+Month: December
 DOI: 
 File-URL: 
 File-Format: Application/pdf 
